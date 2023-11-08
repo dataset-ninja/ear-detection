@@ -1,4 +1,4 @@
-**Human Face: Ear Detection** is a dataset for instance segmentation, semantic segmentation, and object detection tasks. Possible applications of the dataset could be in the general domain. 
+**Human Face: Ear Detection** is a dataset for instance segmentation, semantic segmentation, and object detection tasks. Possible applications of the dataset could be in the surveillance industry. 
 
 The dataset consists of 107 images with 110 labeled objects belonging to 1 single class (*ear*).
 
