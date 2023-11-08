@@ -21,8 +21,8 @@ HIDE_DATASET = True  # set False when 100% sure about repo quality
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.Unknown()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Surveillance(is_used=False)]
-CATEGORY: Category = Category.Surveillance()
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Entertainment(is_used=False)]
+CATEGORY: Category = Category.Entertainment()
 
 CV_TASKS: List[CVTask] = [CVTask.InstanceSegmentation() ,CVTask.SemanticSegmentation(), CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.InstanceSegmentation()]
