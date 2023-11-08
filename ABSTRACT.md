@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+**Human Face: Ear Detection** dataset contains images of human faces with annotated *ear* regions. The dataset consists of a total of 440 images, with each image containing one or more human faces. The dataset is useful for developing computer vision models for ear detection in human faces, which can be used in various applications such as biometric authentication and surveillance. The images were collected from various sources and have varying resolutions and lighting conditions. The dataset includes a CSV file with annotations for the ear regions in each image.
